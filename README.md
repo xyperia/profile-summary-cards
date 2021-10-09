@@ -21,5 +21,12 @@ What I'm learning right now:
   </table>
 </p>
 
+<img width="100%" src="profile-summary-card-output/github/0-profile-details.svg" />
+<p>
+<img src="profile-summary-card-output/github/1-repos-per-language.svg" />
+<img src="profile-summary-card-output/github/2-most-commit-language.svg" />
+<img src="profile-summary-card-output/github/3-stats.svg" />
+</p>
+
 *Btw, I'm currently switching from cracked software (Don't tell anyone 🤫🤐) to FOSS 😎*
 
