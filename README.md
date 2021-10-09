@@ -1,3 +1,10 @@
+<div align='center'>
+  <p>Hi there! 👋 I'm <strong>Yan</strong>, Male, 23 y.o</p>
+  <p>I’m currently working as a SysDev at the IT Distributor company</p>
+  <p>I have experience in 2D game and software development as a programmer</p>
+  <p>Feel free to add my [Steam](https://steamcommunity.com/id/xyperia) and let's play a game or two sometime or add me on [Discord](https://discordapp.com/users/357108041755262989)</p>
+</div>
+  
   ### Hi there, I'm [XYPERIA](https://xyperia.github.io) 👋
 
   - 🏢 I’m currently working as a SysDev at the IT Distributor company
