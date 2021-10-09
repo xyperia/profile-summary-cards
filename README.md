@@ -29,7 +29,7 @@
 </p>
 
 <div align='center'>
-  <i>Btw, I'm currently switching from cracked software (Don't tell anyone 🤫🤐) to FOSS 😎<i>
+  <i>Btw, I'm currently switching from cracked software (Don't tell anyone 🤫🤐) to FOSS 😬<i>
 </div>
 
 
