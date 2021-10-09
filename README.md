@@ -11,7 +11,7 @@ What I'm learning right now:
 <p align="center">
   <table width="100%" border="0">
     <tr>
-      <td colspan="3" width="100%"> <img src="profile-summary-card-output/github/0-profile-details.svg" /> </td>
+      <td colspan="3" width="100%"> <img width="100%" src="profile-summary-card-output/github/0-profile-details.svg" /> </td>
     </tr>
     <tr>
       <td> <img src="profile-summary-card-output/github/1-repos-per-language.svg" /> </td>
