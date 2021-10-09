@@ -4,9 +4,9 @@
 - 🎮 Add my [Steam](https://steamcommunity.com/id/xyperia) and let's play a game sometime or add me on [Discord](https://discordapp.com/users/357108041755262989) maybe 🤔
 - 🤙 How to reach me: [LinkedIn](https://www.linkedin.com/in/iyantp/), [Facebook](https://www.facebook.com/septian.trii/), and [Instagram](https://www.instagram.com/iyan.tp/)
 
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/xyperia/xyperia/master/profile-summary-card-output/monokai/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/xyperia/xyperia/master/profile-summary-card-output/monokai/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/xyperia/xyperia/master/profile-summary-card-output/monokai/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/xyperia/xyperia/master/profile-summary-card-output/monokai/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/xyperia/xyperia/master/profile-summary-card-output/monokai/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 What I'm learning right now:
 
