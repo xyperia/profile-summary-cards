@@ -10,9 +10,9 @@ What I'm learning right now:
 
 <img width="100%" src="profile-summary-card-output/github/0-profile-details.svg" />
 <p align="center">
-  <img width="36%" src="profile-summary-card-output/github/1-repos-per-language.svg" />
-  <img width="36%" src="profile-summary-card-output/github/2-most-commit-language.svg" />
-  <img width="24.3%" src="profile-summary-card-output/github/3-stats.svg" />
+  <img width="33.3%" src="profile-summary-card-output/github/1-repos-per-language.svg" />
+  <img width="33.3%" src="profile-summary-card-output/github/2-most-commit-language.svg" />
+  <img width="33.3%" src="profile-summary-card-output/github/3-stats.svg" />
 </p>
 
 *Btw, I'm currently switching from cracked software (Don't tell anyone 🤫🤐) to FOSS 😎*
