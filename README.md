@@ -11,21 +11,15 @@ What I'm learning right now:
 <p align="center">
   <table width="100%">
     <tr>
-      <td colspan="3" width="100%"> <img width="100%" src="profile-summary-card-output/github/0-profile-details.svg" /> </td>
+      <td colspan="3" width="100%" style="border: none"> <img width="100%" src="profile-summary-card-output/github/0-profile-details.svg" /> </td>
     </tr>
     <tr>
-      <td> <img src="profile-summary-card-output/github/1-repos-per-language.svg" /> </td>
-      <td> <img src="profile-summary-card-output/github/2-most-commit-language.svg" /> </td>
-      <td> <img src="profile-summary-card-output/github/3-stats.svg" /> </td>
+      <td style="border: none"> <img src="profile-summary-card-output/github/1-repos-per-language.svg" /> </td>
+      <td style="border: none"> <img src="profile-summary-card-output/github/2-most-commit-language.svg" /> </td>
+      <td style="border: none"> <img src="profile-summary-card-output/github/3-stats.svg" /> </td>
     </tr>
   </table>
 </p>
 
 *Btw, I'm currently switching from cracked software (Don't tell anyone 🤫🤐) to FOSS 😎*
-
-<style>
-  table, th, td {
-    border: 0;
-  }  
-</style>
 
