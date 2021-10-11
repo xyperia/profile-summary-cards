@@ -23,9 +23,9 @@
 </p>
 
 <p align="center">
+  <img width="30%" src="profile-summary-card-output/github_dark//3-stats.svg" />
   <img width="30%" src="profile-summary-card-output/github_dark//1-repos-per-language.svg" />
   <img width="30%" src="profile-summary-card-output/github_dark//2-most-commit-language.svg" />
-  <img width="30%" src="profile-summary-card-output/github_dark//3-stats.svg" />
 </p>
 
 <div align='center'>
